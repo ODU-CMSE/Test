@@ -1,5 +1,3 @@
 # Test
 1. Shen
-2. cui
-3. cui2
-4. Shen
+3. cui3
